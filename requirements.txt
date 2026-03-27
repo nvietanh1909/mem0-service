@@ -1,0 +1,9 @@
+mem0ai
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+pyyaml
+qdrant-client
+sentence-transformers
+openai
