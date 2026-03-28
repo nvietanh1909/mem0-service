@@ -83,4 +83,6 @@ curl -s -G "http://localhost:8000/api/v1/memories/search" \
 - /app/services: Core logic for memory and chat orchestration.
 - /app/schemas: Pydantic models for request/response validation.
 - /config.yaml: Mem0 internal configuration (embedder, vector store).
-- /docker-compose.yml: Infrastructure orchestration.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
